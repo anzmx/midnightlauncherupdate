@@ -1,0 +1,128 @@
+[ 2023-06-26 00:19:17,588 ] Using spritesheet cache size of 910
+[ 2023-06-26 00:19:18,174 ] Asset loading complete
+[ 2023-06-26 00:23:55,798 ] Using spritesheet cache size of 910
+[ 2023-06-26 00:23:56,358 ] Asset loading complete
+[ 2023-06-26 00:33:40,790 ] Using spritesheet cache size of 910
+[ 2023-06-26 00:33:41,605 ] Asset loading complete
+[ 2023-06-26 00:33:41,702 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:33:54,734 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:33:54,925 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:35:13,549 ] Using spritesheet cache size of 910
+[ 2023-06-26 00:35:14,015 ] Asset loading complete
+[ 2023-06-26 00:35:28,250 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:35:28,992 ] BattlEye: "Initialized (v1.249)"
+[ 2023-06-26 00:35:28,992 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-06-26 00:35:28,992 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-06-26 00:35:28,992 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-06-26 00:35:28,992 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-06-26 00:35:29,023 ] Request connection to gameserver  "tcp://158.69.59.188:7172"  (unprotected:  "tcp://158.69.59.188:7172" )  requested (Charakter "Admin Zeltix" )
+[ 2023-06-26 00:35:29,027 ] Request connection to gameserver  "tcp://158.69.59.188:7172" "Midnight"
+[ 2023-06-26 00:35:29,121 ] Connected to gameserver  "tcp://158.69.59.188:7172" "Midnight"
+[ 2023-06-26 00:35:30,248 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:35:33,024 ] Connection to gameserver  "tcp://158.69.59.188:7172" "Midnight"  was disconnected ( "The remote host closed the connection" )
+[ 2023-06-26 00:35:33,060 ] Disconnected from gameserver
+[ 2023-06-26 00:35:33,514 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:36:07,282 ] Using spritesheet cache size of 910
+[ 2023-06-26 00:36:07,744 ] Asset loading complete
+[ 2023-06-26 00:36:18,719 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:36:19,438 ] BattlEye: "Initialized (v1.249)"
+[ 2023-06-26 00:36:19,438 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-06-26 00:36:19,438 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-06-26 00:36:19,438 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-06-26 00:36:19,438 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-06-26 00:36:19,470 ] Request connection to gameserver  "tcp://158.69.59.188:7172"  (unprotected:  "tcp://158.69.59.188:7172" )  requested (Charakter "Admin Zeltix" )
+[ 2023-06-26 00:36:19,475 ] Request connection to gameserver  "tcp://158.69.59.188:7172" "Midnight"
+[ 2023-06-26 00:36:19,568 ] Connected to gameserver  "tcp://158.69.59.188:7172" "Midnight"
+[ 2023-06-26 00:36:20,687 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:36:36,109 ] Connection to gameserver  "tcp://158.69.59.188:7172" "Midnight"  was disconnected ( "The remote host closed the connection" )
+[ 2023-06-26 00:36:36,143 ] Disconnected from gameserver
+[ 2023-06-26 00:36:36,606 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:38:34,623 ] Using spritesheet cache size of 910
+[ 2023-06-26 00:38:35,378 ] Asset loading complete
+[ 2023-06-26 00:38:35,467 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:38:47,655 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:38:48,119 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:38:56,851 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:38:57,043 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:39:04,793 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:39:05,080 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:39:05,363 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:39:05,851 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:39:06,108 ] BattlEye: "Initialized (v1.249)"
+[ 2023-06-26 00:39:06,108 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-06-26 00:39:06,108 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-06-26 00:39:06,108 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-06-26 00:39:06,108 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-06-26 00:39:06,140 ] Request connection to gameserver  "tcp://158.69.59.188:7172"  (unprotected:  "tcp://158.69.59.188:7172" )  requested (Charakter "Admin Zeltix" )
+[ 2023-06-26 00:39:06,145 ] Request connection to gameserver  "tcp://158.69.59.188:7172" "Midnight"
+[ 2023-06-26 00:39:06,235 ] Connected to gameserver  "tcp://158.69.59.188:7172" "Midnight"
+[ 2023-06-26 00:39:07,358 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:39:15,671 ] Connection to gameserver  "tcp://158.69.59.188:7172" "Midnight"  was disconnected ( "The remote host closed the connection" )
+[ 2023-06-26 00:39:15,708 ] Disconnected from gameserver
+[ 2023-06-26 00:39:15,906 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:39:16,130 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:39:16,549 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:39:16,586 ] Request connection to gameserver  "tcp://158.69.59.188:7172"  (unprotected:  "tcp://158.69.59.188:7172" )  requested (Charakter "Admin Zeltix" )
+[ 2023-06-26 00:39:16,587 ] Request connection to gameserver  "tcp://158.69.59.188:7172" "Midnight"
+[ 2023-06-26 00:39:16,680 ] Connected to gameserver  "tcp://158.69.59.188:7172" "Midnight"
+[ 2023-06-26 00:39:17,570 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://www.midnight-global.com/login.php") ) due to too many retries.
+[ 2023-06-26 00:39:31,574 ] Connection to gameserver  "tcp://158.69.59.188:7172" "Midnight"  was disconnected ( "The remote host closed the connection" )
+[ 2023-06-26 00:39:31,610 ] Disconnected from gameserver
+[ 2023-06-26 00:39:31,630 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://www.midnight-global.com/login.php") ) due to too many retries.
+[ 2023-06-26 00:39:31,647 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:43:31,181 ] Using spritesheet cache size of 910
+[ 2023-06-26 00:43:31,978 ] Asset loading complete
+[ 2023-06-26 00:43:32,073 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:43:53,026 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:43:53,344 ] Could not find Sound Effect ID 688
+[ 2023-06-26 00:44:17,492 ] Using spritesheet cache size of 910
+[ 2023-06-26 00:44:17,931 ] Asset loading complete
+[ 2023-06-26 00:44:36,339 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:44:36,822 ] BattlEye: "Initialized (v1.249)"
+[ 2023-06-26 00:44:36,822 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-06-26 00:44:36,822 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-06-26 00:44:36,822 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-06-26 00:44:36,822 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-06-26 00:44:36,854 ] Request connection to gameserver  "tcp://158.69.59.188:7172"  (unprotected:  "tcp://158.69.59.188:7172" )  requested (Charakter "Admin Zeltix" )
+[ 2023-06-26 00:44:36,859 ] Request connection to gameserver  "tcp://158.69.59.188:7172" "Midnight"
+[ 2023-06-26 00:44:36,952 ] Connected to gameserver  "tcp://158.69.59.188:7172" "Midnight"
+[ 2023-06-26 00:44:38,077 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:44:53,310 ] Connection to gameserver  "tcp://158.69.59.188:7172" "Midnight"  was disconnected ( "The remote host closed the connection" )
+[ 2023-06-26 00:44:53,346 ] Disconnected from gameserver
+[ 2023-06-26 00:44:53,770 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:47:55,396 ] Using spritesheet cache size of 910
+[ 2023-06-26 00:47:55,829 ] Asset loading complete
+[ 2023-06-26 00:52:40,313 ] Using spritesheet cache size of 910
+[ 2023-06-26 00:52:41,026 ] Asset loading complete
+[ 2023-06-26 00:54:05,935 ] Using spritesheet cache size of 910
+[ 2023-06-26 00:54:06,381 ] Asset loading complete
+[ 2023-06-26 00:55:14,091 ] Using spritesheet cache size of 910
+[ 2023-06-26 00:55:14,886 ] Asset loading complete
+[ 2023-06-26 00:55:25,450 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:55:26,295 ] BattlEye: "Initialized (v1.249)"
+[ 2023-06-26 00:55:26,295 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-06-26 00:55:26,295 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-06-26 00:55:26,295 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-06-26 00:55:26,295 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-06-26 00:55:26,328 ] Request connection to gameserver  "tcp://158.69.59.188:7172"  (unprotected:  "tcp://158.69.59.188:7172" )  requested (Charakter "Admin Zeltix" )
+[ 2023-06-26 00:55:26,333 ] Request connection to gameserver  "tcp://158.69.59.188:7172" "Midnight"
+[ 2023-06-26 00:55:26,428 ] Connected to gameserver  "tcp://158.69.59.188:7172" "Midnight"
+[ 2023-06-26 00:55:27,530 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:55:36,808 ] Connection to gameserver  "tcp://158.69.59.188:7172" "Midnight"  was disconnected ( "The remote host closed the connection" )
+[ 2023-06-26 00:55:36,841 ] Disconnected from gameserver
+[ 2023-06-26 00:55:37,252 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:58:01,901 ] Using spritesheet cache size of 910
+[ 2023-06-26 00:58:02,343 ] Asset loading complete
+[ 2023-06-26 00:58:12,859 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:58:13,755 ] BattlEye: "Initialized (v1.249)"
+[ 2023-06-26 00:58:13,755 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-06-26 00:58:13,755 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-06-26 00:58:13,755 ] BattlEye: "Config entry: GameID tibia"
+[ 2023-06-26 00:58:13,755 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2023-06-26 00:58:13,789 ] Request connection to gameserver  "tcp://158.69.59.188:7172"  (unprotected:  "tcp://158.69.59.188:7172" )  requested (Charakter "Admin Zeltix" )
+[ 2023-06-26 00:58:13,793 ] Request connection to gameserver  "tcp://158.69.59.188:7172" "Midnight"
+[ 2023-06-26 00:58:13,878 ] Connected to gameserver  "tcp://158.69.59.188:7172" "Midnight"
+[ 2023-06-26 00:58:15,008 ] News query failed: "Unrecognized event news."
+[ 2023-06-26 00:58:16,821 ] Connection to gameserver  "tcp://158.69.59.188:7172" "Midnight"  was disconnected ( "The remote host closed the connection" )
+[ 2023-06-26 00:58:16,856 ] Disconnected from gameserver
+[ 2023-06-26 00:58:17,289 ] News query failed: "Unrecognized event news."
